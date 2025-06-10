@@ -11,7 +11,7 @@ redirect_from:
 
 # Research Interests
 Artificial Intelligence and Biochemistry, with focus on:
-- Pre-trained large models for RNA applications
+- Pre-trained large models / multi-agent for RNA applications
 - Multimodal/Multi-omics machine learning
 - Data-driven scientific discovery
 
@@ -51,7 +51,7 @@ Feb 2024 - Sep 2025
 ● Achieved software copyright and deployment in national key laboratory  
 [GitHub Repository](https://github.com/zbdx-lcy/SPFProject)  
 
-## Awards
+# Awards
 ● National Innovation Training Program Grant (2024)  
 ● 10th National Safety Science Competition (2nd Prize, 2024)  
 ● 26th China Robotics Contest (3rd Prize, 2024)  
