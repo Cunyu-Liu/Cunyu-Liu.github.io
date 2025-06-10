@@ -7,17 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-## Liu Cunyu
 
 Email: liucunyu@westlake.edu.cn · Phone: (+86) 180-3510-5602
 
-## Research Interests
+# Research Interests
 Artificial Intelligence and Biochemistry, with focus on:
 - Pre-trained large models for RNA applications
 - Multimodal/Multi-omics machine learning
 - Data-driven scientific discovery
 
-## Education
+# Education
 **North University of China**  
 *B.Eng. in Software Engineering*  
 Sep 2022 - Jun 2026 (Expected)  
@@ -27,7 +26,7 @@ Sep 2022 - Jun 2026 (Expected)
 ● Technical Writing: Share study notes on CSDN with 800+ followers and 60,000+ views  
 ● English: CET-4 (524), CET-6 (554)
 
-## Research Experience
+# Research Experience
 
 **Visiting Student**  
 Westlake University · Advisor: Prof. Fang Linglan  
@@ -62,4 +61,3 @@ Feb 2024 - Jul 2025
 [GitHub](your-github-link) | 
 [WeChat](../images/wechat.jpg) | 
 [CSDN Blog](your-csdn-link)  
-[Download CV](../assets/Curriculum_Vitae.pdf)
