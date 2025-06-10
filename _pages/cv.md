@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -17,20 +20,29 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Visiting Student**  
+Westlake University · Advisor: Prof. Fang Linglan  
+Aug 2024 - Now
+● Developed AI platform for RNA reactivity analysis:  
+  - Custom loss functions and Bayesian optimization for RNA oxidation patterns  
+  - Window screen feature engineering for variable-length sequences  
+  - Inverse RNA sequence generation model for targeted reactivity  
+● Proposed "RNA Function Inference via Chemical Reactivity" hypothesis  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Research Intern**  
+Zhejiang University · Advisor: Prof. Hou Tingjun  
+Mar 2025 - Now
+● Trained RNA large language models on 13.6M non-coding RNA sequences  
+● Implemented dynamic chunking with byte-level entropy prediction  
+● Reproduced BLT architecture for context-aware RNA sequence modeling  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Project Lead**  
+*Composite Material Rheological Analysis Software*  
+Feb 2024 - Sep 2025  
+● Led 7-member team in full-stack development (Vue.js + Django)  
+● Implemented data visualization (ECharts) and automated PDF reporting  
+● Achieved software copyright and deployment in national key laboratory  
+[GitHub Repository](https://github.com/zbdx-lcy/SPFProject)  
   
 Skills
 ======
