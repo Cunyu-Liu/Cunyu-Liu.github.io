@@ -7,6 +7,63 @@ redirect_from:
   - /about.html
 ---
 
+### Liu Cunyu
+
+Email: liucunyu@westlake.edu.cn · Phone: (+86) 180-3510-5602
+
+### Research Interests
+Artificial Intelligence and Biochemistry, with focus on:
+- Pre-trained large models for RNA applications
+- Multimodal/Multi-omics machine learning
+- Data-driven scientific discovery
+
+### Education
+**North University of China**  
+*B.Eng. in Software Engineering*  
+Sep 2022 - Jun 2026 (Expected)  
+● GPA: 3.96/5.00 (Top 0.5% in major)  
+● Core Courses: Computer Systems (97), Networking and Computing (96), Operating Systems (95), OOP (93)  
+● Honors: First-class Scholarship (2023,2024), Outstanding League Member (2023)  
+● Technical Writing: Share study notes on CSDN with 800+ followers and 60,000+ views  
+● English: CET-4 (524), CET-6 (554)
+
+### Research Experience
+
+**Visiting Student**  
+Westlake University · Advisor: Prof. Fang Linglan  
+Aug 2024 - Sep 2025  
+● Developed AI platform for RNA reactivity analysis:  
+  - Custom loss functions and Bayesian optimization for RNA oxidation patterns  
+  - Window screen feature engineering for variable-length sequences  
+  - Inverse RNA sequence generation model for targeted reactivity  
+● Proposed "RNA Function Inference via Chemical Reactivity" hypothesis  
+
+**Research Intern**  
+Zhejiang University · Advisor: Prof. Hou Tingjun  
+Mar 2025 - Sep 2025  
+● Trained RNA large language models on 13.6M non-coding RNA sequences  
+● Implemented dynamic chunking with byte-level entropy prediction  
+● Reproduced BLT architecture for context-aware RNA sequence modeling  
+
+**Project Lead**  
+*Composite Material Rheological Analysis Software*  
+Feb 2024 - Jul 2025  
+● Led 7-member team in full-stack development (Vue.js + Django)  
+● Implemented data visualization (ECharts) and automated PDF reporting  
+● Achieved software copyright and deployment in national key laboratory  
+[GitHub Repository](https://github.com/zbdx-lcy/SPFProject)  
+
+### Awards
+● National Innovation Training Program Grant (2024)  
+● 10th National Safety Science Competition (2nd Prize, 2024)  
+● 26th China Robotics Contest (3rd Prize, 2024)  
+
+[Email](mailto:liucunyu@westlake.edu.cn) | 
+[GitHub](your-github-link) | 
+[WeChat](../images/wechat.jpg) | 
+[CSDN Blog](your-csdn-link)  
+[Download CV](../assets/Curriculum_Vitae.pdf)
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
