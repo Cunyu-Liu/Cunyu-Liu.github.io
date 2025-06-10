@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[Email: ](mailto:liucunyu@westlake.edu.cn) · Phone: (+86) 180-3510-5602
+[Email: liucunyu@westlake.edu.cn](mailto:liucunyu@westlake.edu.cn)
 
 # Research Interests
 Artificial Intelligence and Biochemistry, with focus on:
