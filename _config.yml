@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "微信图片_20220805194218_副本.png"
+  avatar           : "profile.png"
   name             : "Cunyu Liu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "NUC"
   uri              : # URL
   email            : "none@example.org" 
 
