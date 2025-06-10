@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-[Email: liucunyu@westlake.edu.cn](mailto:liucunyu@westlake.edu.cn)
 
 # Research Interests
 Artificial Intelligence and Biochemistry, with focus on:
@@ -22,7 +21,7 @@ Sep 2022 - Jun 2026 (Expected)
 ● GPA: 3.96/5.00 (Top 0.5% in major)  
 ● Core Courses: Computer Systems (97), Networking and Computing (96), Operating Systems (95), OOP (93)  
 ● Honors: First-class Scholarship (2023,2024), Outstanding League Member (2023,2024)  
-● Technical Writing: Share study notes on CSDN with 850+ followers and 63,000+ views  
+● Technical Writing: Share study notes on CSDN with 850+ followers and 65,000+ views  
 ● English: CET-4 (524), CET-6 (554)
 
 # Research Experience
@@ -57,6 +56,5 @@ Feb 2024 - Sep 2025
 ● 26th China Robotics Contest (3rd Prize, 2024)  
 
 [Email](mailto:liucunyu@westlake.edu.cn) | 
-[GitHub](your-github-link) | 
-[WeChat](../images/wechat.jpg) | 
-[CSDN Blog](your-csdn-link)  
+[GitHub](https://github.com/Cunyu-Liu) | 
+[CSDN Blog](https://blog.csdn.net/weixin_74152658?type=blog)  
