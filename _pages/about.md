@@ -2,14 +2,38 @@
 permalink: /
 title: "Cunyu Liu"
 author_profile: true
+hide_title: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am an incoming Ph.D. student at the College of Artificial Intelligence, Zhejiang University, advised by Prof. Tingjun Hou. My work sits at the intersection of **AI for Science**, **domain large language models**, **multi-agent systems**, and **scientific computing**.
+<div class="home-polish" markdown="1">
 
-I am particularly interested in building AI systems that connect scientific literature, structured knowledge, molecular design, and experimental decision-making. My recent work spans battery electrolyte research agents, chemistry-domain LLM adaptation, RNA reactivity modeling, and industrial AI engineering for automated testing workflows.
+<section class="home-hero" markdown="1">
+
+<div class="home-hero__eyebrow">AI for Science / Domain LLMs / Multi-Agent Systems</div>
+
+# Cunyu Liu
+
+I build AI systems that connect scientific literature, structured knowledge, molecular design, and experimental decision-making.
+
+Incoming Ph.D. student at Zhejiang University, advised by Prof. Tingjun Hou. My recent work spans battery electrolyte research agents, chemistry-domain LLM adaptation, RNA reactivity modeling, and industrial AI engineering for automated testing workflows.
+
+<div class="home-hero__actions" markdown="1">
+[Explore Projects](/portfolio/){: .btn .btn--primary}
+[View CV](/cv/){: .btn .btn--inverse}
+</div>
+
+<div class="home-hero__metrics" markdown="1">
+<span><strong>180k+</strong> papers in scientific RAG</span>
+<span><strong>16.4M</strong> deduplicated RNA sequences</span>
+<span><strong>6</strong> selected AI/software projects</span>
+</div>
+
+</section>
+
+<section class="home-panel" markdown="1">
 
 ## Research Interests
 
@@ -18,6 +42,8 @@ I am particularly interested in building AI systems that connect scientific lite
 - Multi-agent systems and Skill-based API orchestration
 - Computational chemistry, RNA modeling, and materials informatics
 - Scientific software engineering and automated testing infrastructure
+
+</section>
 
 <div class="technical-stack" markdown="1">
 
@@ -114,3 +140,5 @@ My technical background combines model training, scientific data engineering, mu
 - First-class Comprehensive Scholarship, North University of China
 
 [Email](mailto:liucunyu@westlake.edu.cn) | [GitHub](https://github.com/Cunyu-Liu) | [CSDN Blog](https://blog.csdn.net/weixin_74152658?type=blog)
+
+</div>
