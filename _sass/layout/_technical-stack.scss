@@ -12,6 +12,8 @@
   background:
     radial-gradient(circle at top left, rgba(82, 173, 200, 0.18), transparent 34%),
     linear-gradient(135deg, rgba(82, 173, 200, 0.08), rgba(47, 127, 147, 0.04));
+  backdrop-filter: saturate(165%) blur(16px);
+  -webkit-backdrop-filter: saturate(165%) blur(16px);
   box-shadow: 0 12px 34px rgba(0, 0, 0, 0.06);
 }
 
@@ -56,6 +58,8 @@
   border-bottom: 0;
   border-radius: 14px 14px 0 0;
   background: rgba(255, 255, 255, 0.62);
+  backdrop-filter: saturate(155%) blur(12px);
+  -webkit-backdrop-filter: saturate(155%) blur(12px);
   font-size: 1.02em;
   animation: tech-stack-rise 0.55s ease both;
 }
@@ -79,6 +83,8 @@
   border: 1px solid var(--global-border-color);
   border-radius: 0 0 14px 14px;
   background: rgba(255, 255, 255, 0.42);
+  backdrop-filter: saturate(155%) blur(12px);
+  -webkit-backdrop-filter: saturate(155%) blur(12px);
   box-shadow: 0 8px 22px rgba(0, 0, 0, 0.045);
   transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
   animation: tech-stack-rise 0.55s ease both;
@@ -128,6 +134,7 @@ html[data-theme="dark"] .technical-stack {
   background:
     radial-gradient(circle at top left, rgba(14, 161, 197, 0.22), transparent 34%),
     linear-gradient(135deg, rgba(14, 161, 197, 0.13), rgba(255, 255, 255, 0.035));
+  border-color: rgba(255, 255, 255, 0.1);
   box-shadow: 0 12px 34px rgba(0, 0, 0, 0.24);
 }
 
