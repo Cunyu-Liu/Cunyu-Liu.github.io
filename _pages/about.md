@@ -19,6 +19,8 @@ I am particularly interested in building AI systems that connect scientific lite
 - Computational chemistry, RNA modeling, and materials informatics
 - Scientific software engineering and automated testing infrastructure
 
+<div class="technical-stack" markdown="1">
+
 ## Technical Stack
 
 My technical background combines model training, scientific data engineering, multi-agent system design, and production-grade AI tooling.
@@ -46,6 +48,8 @@ My technical background combines model training, scientific data engineering, mu
 - **Backend:** Python, Java, Spring Boot, FastAPI, Flask, Redis queues, RESTful APIs, JWT authentication, asynchronous polling, and scheduled jobs.
 - **Frontend:** React, Vue, TypeScript, Uniapp, ECharts, data visualization, and PDF report generation.
 - **Developer tools:** Node.js, CLI design, MCP SDK, OpenClaw-style Skill Gateway, CI/CD, automated testing, and production workflow integration.
+
+</div>
 
 ## Education
 

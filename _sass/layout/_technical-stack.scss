@@ -1,0 +1,172 @@
+/* ==========================================================================
+   TECHNICAL STACK SECTION
+   ========================================================================== */
+
+.technical-stack {
+  position: relative;
+  margin: 2.25em 0;
+  padding: 1.35em 1.35em 1.1em;
+  overflow: hidden;
+  border: 1px solid var(--global-border-color);
+  border-radius: 16px;
+  background:
+    radial-gradient(circle at top left, rgba(82, 173, 200, 0.18), transparent 34%),
+    linear-gradient(135deg, rgba(82, 173, 200, 0.08), rgba(47, 127, 147, 0.04));
+  box-shadow: 0 12px 34px rgba(0, 0, 0, 0.06);
+}
+
+.technical-stack::before {
+  content: "";
+  position: absolute;
+  top: -40%;
+  left: -30%;
+  width: 55%;
+  height: 180%;
+  pointer-events: none;
+  background: linear-gradient(110deg, transparent, rgba(255, 255, 255, 0.28), transparent);
+  transform: rotate(12deg) translateX(-120%);
+  animation: tech-stack-sheen 8s ease-in-out infinite;
+}
+
+.page__content .technical-stack h2 {
+  position: relative;
+  margin-top: 0;
+  border-bottom: 0;
+}
+
+.technical-stack h2::after {
+  content: "";
+  display: block;
+  width: 4.5em;
+  height: 3px;
+  margin-top: 0.55em;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--global-link-color), rgba(82, 173, 200, 0.15));
+}
+
+.technical-stack > p {
+  color: var(--global-text-color-light);
+}
+
+.technical-stack h3 {
+  position: relative;
+  margin: 1.15em 0 0;
+  padding: 0.9em 1em 0.75em 2.55em;
+  border: 1px solid var(--global-border-color);
+  border-bottom: 0;
+  border-radius: 14px 14px 0 0;
+  background: rgba(255, 255, 255, 0.62);
+  font-size: 1.02em;
+  animation: tech-stack-rise 0.55s ease both;
+}
+
+.technical-stack h3::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 1em;
+  width: 0.72em;
+  height: 0.72em;
+  border-radius: 999px;
+  background: var(--global-link-color);
+  box-shadow: 0 0 0 6px rgba(82, 173, 200, 0.15);
+  transform: translateY(-50%);
+}
+
+.technical-stack h3 + ul {
+  margin-top: 0;
+  padding: 0.85em 1.05em 0.9em 2.2em;
+  border: 1px solid var(--global-border-color);
+  border-radius: 0 0 14px 14px;
+  background: rgba(255, 255, 255, 0.42);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.045);
+  transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
+  animation: tech-stack-rise 0.55s ease both;
+}
+
+.technical-stack h3 + ul:hover {
+  border-color: rgba(82, 173, 200, 0.55);
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.09);
+  transform: translateY(-3px);
+}
+
+.technical-stack li {
+  margin-bottom: 0.45em;
+  transition: transform 0.18s ease, color 0.18s ease;
+}
+
+.technical-stack li:hover {
+  color: var(--global-link-color);
+  transform: translateX(4px);
+}
+
+.technical-stack strong {
+  color: var(--global-link-color);
+}
+
+.technical-stack h3:nth-of-type(1),
+.technical-stack h3:nth-of-type(1) + ul {
+  animation-delay: 0.04s;
+}
+
+.technical-stack h3:nth-of-type(2),
+.technical-stack h3:nth-of-type(2) + ul {
+  animation-delay: 0.12s;
+}
+
+.technical-stack h3:nth-of-type(3),
+.technical-stack h3:nth-of-type(3) + ul {
+  animation-delay: 0.2s;
+}
+
+.technical-stack h3:nth-of-type(4),
+.technical-stack h3:nth-of-type(4) + ul {
+  animation-delay: 0.28s;
+}
+
+html[data-theme="dark"] .technical-stack {
+  background:
+    radial-gradient(circle at top left, rgba(14, 161, 197, 0.22), transparent 34%),
+    linear-gradient(135deg, rgba(14, 161, 197, 0.13), rgba(255, 255, 255, 0.035));
+  box-shadow: 0 12px 34px rgba(0, 0, 0, 0.24);
+}
+
+html[data-theme="dark"] .technical-stack h3,
+html[data-theme="dark"] .technical-stack h3 + ul {
+  background: rgba(255, 255, 255, 0.055);
+}
+
+@keyframes tech-stack-rise {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes tech-stack-sheen {
+  0%,
+  42% {
+    transform: rotate(12deg) translateX(-120%);
+  }
+  58%,
+  100% {
+    transform: rotate(12deg) translateX(240%);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .technical-stack::before,
+  .technical-stack h3,
+  .technical-stack h3 + ul {
+    animation: none;
+  }
+
+  .technical-stack h3 + ul,
+  .technical-stack li {
+    transition: none;
+  }
+}
