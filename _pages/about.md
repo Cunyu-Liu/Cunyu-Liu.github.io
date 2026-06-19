@@ -19,6 +19,34 @@ I am particularly interested in building AI systems that connect scientific lite
 - Computational chemistry, RNA modeling, and materials informatics
 - Scientific software engineering and automated testing infrastructure
 
+## Technical Stack
+
+My technical background combines model training, scientific data engineering, multi-agent system design, and production-grade AI tooling.
+
+### AI Systems and LLM Engineering
+
+- **Domain adaptation:** SFT, QLoRA, DoRA, 4-bit quantization, data mixing, token distribution analysis, and instruction data construction.
+- **LLM toolchain:** PyTorch, Transformers, Hugging Face, Llama Factory, BitsAndBytes, vLLM, and prompt engineering for scientific reasoning.
+- **Evaluation:** LLM-as-a-Judge, benchmark construction, ablation experiments, objective QA evaluation, and chain-of-thought scoring.
+
+### RAG, Agents, and Knowledge Systems
+
+- **Retrieval architecture:** Milvus, Elasticsearch BM25, hybrid dense/sparse retrieval, RRF fusion, bge-m3 embeddings, and bge-reranker-v2-m3 reranking.
+- **Agent orchestration:** LangGraph state machines, conditional routing, workflow persistence, quality-control agents, and Skill-based API invocation.
+- **Knowledge modeling:** scientific literature parsing, recursive entity extraction, domain ontology design, knowledge graph construction, and citation-level traceability.
+
+### Scientific Computing and Data Science
+
+- **Chemistry and materials:** RDKit, UniMol-style molecular property prediction, BoTorch, GPyTorch, Bayesian optimization, and constrained formulation search.
+- **Bioinformatics and RNA modeling:** RNA sequence preprocessing, MMseqs2 deduplication, byte-level language modeling, BLT-style dynamic chunking, and secondary-structure feature analysis.
+- **Data engineering:** MinerU document parsing, Pandas, NumPy, scientific data cleaning, high-throughput batch processing, and reproducible evaluation pipelines.
+
+### Full-Stack and Engineering Infrastructure
+
+- **Backend:** Python, Java, Spring Boot, FastAPI, Flask, Redis queues, RESTful APIs, JWT authentication, asynchronous polling, and scheduled jobs.
+- **Frontend:** React, Vue, TypeScript, Uniapp, ECharts, data visualization, and PDF report generation.
+- **Developer tools:** Node.js, CLI design, MCP SDK, OpenClaw-style Skill Gateway, CI/CD, automated testing, and production workflow integration.
+
 ## Education
 
 ### Zhejiang University, College of Artificial Intelligence
@@ -74,12 +102,6 @@ I am particularly interested in building AI systems that connect scientific lite
 - **ChemMind Chemistry QA System:** domain SFT and evaluation for Qwen3-8B using MinerU data pipelines, QLoRA, 4-bit quantization, Llama Factory, THU-Benchmark, SUPERChem, and LLM-as-a-Judge.
 - **Composite Material Rheological and Constitutive Analysis Software:** led a 7-member team to build a Vue + Django web system with ECharts visualization, MySQL integration, PDF report generation, testing, and software copyright deployment in a national key laboratory.
 - **Smart Breeding Management Platform:** technical lead for a national innovation project using Uniapp, Spring Boot, IoT, AI-assisted monitoring, and multi-platform visualization.
-
-## Skills
-
-- **AI and Modeling:** SFT, QLoRA, DoRA, 4-bit quantization, LangGraph, Agent workflows, RAG, Milvus, Elasticsearch, RRF, knowledge graphs, LLM-as-a-Judge, LightGBM, XGBoost
-- **Engineering:** Python, Java, C, R, PyTorch, Hugging Face, Llama Factory, FastAPI, Flask, React, Vue, TypeScript, Node.js, MCP SDK, CI/CD, automated testing
-- **Data Science:** MinerU, Pandas, NumPy, RDKit, BoTorch, GPyTorch, bge-m3, bge-reranker
 
 ## Honors
 
