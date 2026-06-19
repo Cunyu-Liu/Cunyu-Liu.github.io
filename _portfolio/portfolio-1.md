@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Electrolyte Lab: Multi-Agent Platform for Battery Electrolyte Research"
+excerpt: "LangGraph multi-agent workflows, scientific RAG, knowledge graph extraction, and closed-loop formulation optimization."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Built a battery electrolyte research platform at Tsinghua University that connects literature research, knowledge extraction, molecular design, and experimental execution.
+
+**Highlights**
+
+- Designed a LangGraph state-machine workflow with specialized agents and conditional routing.
+- Built RAG over 180k+ papers using Milvus, Elasticsearch BM25, RRF fusion, bge-m3 embeddings, and bge-reranker-v2-m3 reranking.
+- Implemented recursive knowledge graph extraction for battery systems, electrolyte formulas, electrode materials, solvents, salts, additives, and performance metrics.
+- Wrapped molecular prediction, formulation optimization, and device-control capabilities as Skill-based APIs.
+- Used BoTorch and GPyTorch for constrained multi-objective Bayesian optimization.
+
+**Tech stack:** Python, LangGraph, Milvus, Elasticsearch, BoTorch, RDKit, FastAPI, React, TypeScript.

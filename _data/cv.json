@@ -1,152 +1,202 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Cunyu Liu",
+    "email": "liucunyu@westlake.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://cunyu-liu.github.io",
+    "summary": "Incoming Ph.D. student at Zhejiang University working on AI for Science, domain LLMs, multi-agent systems, RAG, and scientific computing.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Hangzhou",
+      "countryCode": "CN",
+      "region": "Zhejiang"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Cunyu-Liu",
+        "url": "https://github.com/Cunyu-Liu"
+      },
+      {
+        "network": "CSDN",
+        "username": "weixin_74152658",
+        "url": "https://blog.csdn.net/weixin_74152658?type=blog"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "ByteDance, LarkQA Team",
+      "position": "AI Engineering Intern",
+      "website": "",
+      "startDate": "2026-03",
+      "endDate": "2026-07",
+      "summary": "Built AI tooling for automated testing workflows, defect coverage review, BOSS CLI, and OpenClaw Skill Gateway integrations.",
+      "highlights": [
+        "Implemented BBC/BBQ test case polishing workflows with Coze Bot API, Aily, Fornax GPT, Spring Boot, Redis queues, and multimodal prompts.",
+        "Built RAG-based defect automation coverage review with BBQ/BBC dual recall, multimodal completeness checks, confidence scoring, and Feishu Bitable output.",
+        "Developed Bits/BOSS testing tools for tenant creation, asset unsubscribe, usage query/reporting, and mock-time scenarios."
+      ]
+    },
+    {
+      "company": "Tsinghua University, Institute for AI Industry Research / Department of Chemical Engineering",
+      "position": "Engineering Intern",
+      "website": "",
+      "startDate": "2024-10",
+      "endDate": "2025-03",
+      "summary": "Built Electrolyte Lab, a multi-agent platform for battery electrolyte research.",
+      "highlights": [
+        "Designed LangGraph workflows with conditional routing, specialized agents, quality-control nodes, and state persistence.",
+        "Built RAG over 180k+ papers with Milvus, Elasticsearch BM25, RRF fusion, bge-m3 embeddings, and bge-reranker-v2-m3.",
+        "Implemented knowledge graph extraction, Skill-based API orchestration, and constrained Bayesian optimization."
+      ]
+    },
+    {
+      "company": "Westlake University, School of Science",
+      "position": "Visiting Student",
+      "website": "",
+      "startDate": "2024-08",
+      "endDate": "2025-09",
+      "summary": "Built an AI platform for RNA magnesium binding and oxidation reactivity analysis.",
+      "highlights": [
+        "Used LightGBM, soft-voting ensembles, custom losses, Bayesian optimization, and window-based sequence features.",
+        "Explored inverse RNA sequence generation and interpretable secondary-structure analysis."
+      ]
+    },
+    {
+      "company": "Zhejiang University, College of Pharmaceutical Sciences",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "2024-03",
+      "endDate": "2025-09",
+      "summary": "Studied byte-level representation learning and dynamic chunking for RNA language models.",
+      "highlights": [
+        "Processed 32.5M ncRNA records from RNACentral and obtained 16.4M deduplicated training sequences using MMseqs2.",
+        "Trained entropy models and BLT-style global models for RNA sequence modeling."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Zhejiang University, College of Artificial Intelligence",
+      "area": "Artificial Intelligence",
+      "studyType": "Direct Ph.D.",
+      "startDate": "2026-09",
+      "endDate": "2031-06",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "North University of China, School of Software",
+      "area": "Software Engineering",
+      "studyType": "B.Eng.",
+      "startDate": "2022-09",
+      "endDate": "2026-06",
+      "gpa": "3.96/5.00; ranked 1/200",
+      "courses": [
+        "Computer Systems",
+        "Network and Computing",
+        "Operating Systems",
+        "Object-Oriented Programming"
+      ]
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "AI and Modeling",
+      "level": "",
+      "keywords": [
+        "SFT",
+        "QLoRA",
+        "DoRA",
+        "4-bit quantization",
+        "LangGraph",
+        "RAG",
+        "Milvus",
+        "Elasticsearch",
+        "RRF",
+        "Knowledge Graphs",
+        "LLM-as-a-Judge",
+        "LightGBM",
+        "XGBoost"
+      ]
+    },
+    {
+      "name": "Engineering",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Java",
+        "C",
+        "R",
+        "PyTorch",
+        "Hugging Face",
+        "Llama Factory",
+        "FastAPI",
+        "Flask",
+        "React",
+        "Vue",
+        "TypeScript",
+        "Node.js",
+        "MCP SDK",
+        "CI/CD",
+        "Automated Testing"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "level": "",
+      "keywords": [
+        "MinerU",
+        "Pandas",
+        "NumPy",
+        "RDKit",
+        "BoTorch",
+        "GPyTorch",
+        "bge-m3",
+        "bge-reranker"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "AI for Science",
+      "keywords": [
+        "Domain LLMs",
+        "Multi-agent systems",
+        "Scientific RAG",
+        "Computational chemistry",
+        "RNA modeling"
+      ]
+    }
+  ],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Electrolyte Lab: Multi-Agent Platform for Battery Electrolyte Research",
       "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "date": "2025",
+      "url": "/portfolio/portfolio-1/",
+      "description": "LangGraph multi-agent workflows, scientific RAG, knowledge graph extraction, and closed-loop formulation optimization."
+    },
+    {
+      "name": "ChemMind: Chemistry Domain QA System",
+      "category": "portfolio",
+      "date": "2025",
+      "url": "/portfolio/chem-mind/",
+      "description": "Domain SFT and evaluation pipeline for chemistry QA with Qwen3-8B, QLoRA, MinerU, and LLM-as-a-Judge."
+    },
+    {
+      "name": "AI Platform for RNA Reactivity",
+      "category": "portfolio",
+      "date": "2025",
+      "url": "/portfolio/rna-reactivity/",
+      "description": "Machine learning and statistical modeling platform for RNA magnesium binding, oxidation behavior, and interpretable secondary-structure analysis."
     }
   ]
 }
