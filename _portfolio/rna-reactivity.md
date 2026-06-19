@@ -4,6 +4,8 @@ excerpt: "Machine learning and statistical modeling platform for RNA magnesium b
 collection: portfolio
 ---
 
+<div class="project-detail" markdown="1">
+
 This project studies how RNA sequence and structure encode magnesium binding and oxidation reactivity.
 
 ## Overview
@@ -32,3 +34,5 @@ I built the analysis platform, feature engineering pipeline, ensemble model trai
 ## Tech Stack
 
 **Python, LightGBM, ensemble learning, Bayesian optimization, statistical modeling, feature engineering, WebLogo**
+
+</div>

@@ -4,6 +4,8 @@ excerpt: "IoT and AI-assisted breeding management platform with web, app, mini-p
 collection: portfolio
 ---
 
+<div class="project-detail" markdown="1">
+
 Served as technical lead for a national innovation training project that uses IoT and AI-assisted monitoring for smart breeding management.
 
 ## Overview
@@ -31,3 +33,5 @@ I served as technical lead and worked on cross-platform application development,
 ## Tech Stack
 
 **Uniapp, Spring Boot, IoT, AI-assisted monitoring, data visualization, cross-platform development**
+
+</div>

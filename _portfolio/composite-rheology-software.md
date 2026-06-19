@@ -4,6 +4,8 @@ excerpt: "Full-stack scientific software for material rheology analysis, visuali
 collection: portfolio
 ---
 
+<div class="project-detail" markdown="1">
+
 Led a 7-member student team to build a scientific analysis web platform for composite material rheology and constitutive modeling.
 
 ## Overview
@@ -34,3 +36,5 @@ I served as project lead and coordinated a team of 6 graduate students and 1 und
 **Vue, Django, ECharts, MySQL, PDF generation, unit testing, integration testing**
 
 [GitHub Repository](https://github.com/zbdx-lcy/SPFProject)
+
+</div>

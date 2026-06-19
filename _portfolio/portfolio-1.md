@@ -4,6 +4,8 @@ excerpt: "LangGraph multi-agent workflows, scientific RAG, knowledge graph extra
 collection: portfolio
 ---
 
+<div class="project-detail" markdown="1">
+
 Built a battery electrolyte research platform at Tsinghua University that connects literature research, knowledge extraction, molecular design, and experimental execution.
 
 ## Overview
@@ -31,3 +33,5 @@ I worked on the multi-agent workflow, scientific RAG architecture, knowledge gra
 ## Tech Stack
 
 **Python, LangGraph, Milvus, Elasticsearch, bge-m3, bge-reranker-v2-m3, BoTorch, GPyTorch, RDKit, FastAPI, React, TypeScript**
+
+</div>

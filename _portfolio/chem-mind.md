@@ -4,6 +4,8 @@ excerpt: "Domain SFT and evaluation pipeline for chemistry QA with Qwen3-8B, QLo
 collection: portfolio
 ---
 
+<div class="project-detail" markdown="1">
+
 ChemMind is a chemistry-domain question answering system focused on reducing hallucination and improving domain adaptation for general-purpose LLMs.
 
 ## Overview
@@ -30,3 +32,5 @@ I led the chemistry-domain data pipeline, QLoRA fine-tuning setup, and evaluatio
 ## Tech Stack
 
 **PyTorch, Transformers, Llama Factory, BitsAndBytes, QLoRA, vLLM, MinerU, LLM-as-a-Judge**
+
+</div>

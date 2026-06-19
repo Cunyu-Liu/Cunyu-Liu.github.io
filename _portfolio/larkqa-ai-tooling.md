@@ -4,6 +4,8 @@ excerpt: "AI-powered test case polishing, defect coverage review, BOSS CLI, and 
 collection: portfolio
 ---
 
+<div class="project-detail" markdown="1">
+
 At ByteDance LarkQA, I worked on AI engineering systems that automate test case polishing, defect coverage review, and platform testing workflows.
 
 ## Overview
@@ -31,3 +33,5 @@ I designed and implemented AI workflow components, asynchronous LLM service call
 ## Tech Stack
 
 **Java, Spring Boot, Python, Node.js, TypeScript, Redis, Coze API, Aily API, Fornax GPT, Viking DB, Milvus, MCP SDK, JWT, Feishu Bitable API**
+
+</div>
