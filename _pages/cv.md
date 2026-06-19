@@ -27,21 +27,24 @@ Education
 Research Experience
 ======
 
-**Engineering Intern, Tsinghua University Institute for AI Industry Research / Department of Chemical Engineering**
+### Engineering Intern, Tsinghua University Institute for AI Industry Research / Department of Chemical Engineering
+
 Advisor: Prof. Qiang Zhang, 2024.10 - 2025.03
 
 * Built Electrolyte Lab, a battery electrolyte research platform using LangGraph multi-agent workflows and Skill-based API orchestration.
 * Designed RAG infrastructure for 180k+ papers with Milvus, Elasticsearch BM25, RRF fusion, bge-m3 embeddings, bge-reranker-v2-m3 reranking, sentence-level citation tracing, and recursive semantic exploration.
 * Built battery electrolyte knowledge graph extraction and closed-loop optimization modules using BoTorch, GPyTorch, RDKit, FastAPI, React, and TypeScript.
 
-**Visiting Student, Westlake University School of Science**
+### Visiting Student, Westlake University School of Science
+
 Advisor: Prof. Linglan Fang, 2024.08 - 2025.09
 
 * Developed an AI platform for RNA reactivity analysis focused on magnesium binding and oxidation behavior.
 * Used LightGBM, soft-voting ensembles, custom loss functions, Bayesian optimization, and window-based feature engineering for variable-length RNA sequences.
 * Explored inverse RNA sequence generation and interpretable secondary-structure statistics for RNA chemical reactivity.
 
-**Research Intern, Zhejiang University College of Pharmaceutical Sciences**
+### Research Intern, Zhejiang University College of Pharmaceutical Sciences
+
 Advisor: Prof. Tingjun Hou, 2024.03 - 2025.09
 
 * Studied byte-level representation learning and dynamic chunking for RNA language models.
@@ -51,7 +54,8 @@ Advisor: Prof. Tingjun Hou, 2024.03 - 2025.09
 Engineering Experience
 ======
 
-**AI Engineering Intern, ByteDance LarkQA Team**
+### AI Engineering Intern, ByteDance LarkQA Team
+
 2026.03 - 2026.07
 
 * Built AI automated testing tools for BBC/BBQ workflows, covering test case polishing, status polling, case set saving, and intelligent execution.
@@ -62,21 +66,24 @@ Engineering Experience
 Selected Projects
 ======
 
-**ChemMind Chemistry QA System**
+### ChemMind Chemistry QA System
+
 Domain SFT and evaluation for Qwen3-8B.
 
 * Built MinerU-based data pipelines, token distribution analysis, scientific data mixing, QLoRA 4-bit fine-tuning, and Llama Factory training workflows.
 * Designed THU-Benchmark objective evaluation, SUPERChem chain-of-thought evaluation with LLM-as-a-Judge, and ablation experiments.
 * Compared 4-bit fine-tuned models with stronger base models and summarized tradeoffs between fine-tuning cost, reasoning quality, prompt engineering, and few-shot learning.
 
-**Composite Material Rheological and Constitutive Analysis Software**
+### Composite Material Rheological and Constitutive Analysis Software
+
 Project lead, National Key Laboratory, 2024.02 - 2025.07
 
 * Led a 7-member team through full-stack development with Vue and Django.
 * Built ECharts data visualization, MySQL integration, PDF report generation, unit tests, and integration tests.
 * Delivered software copyright and deployment in a national key laboratory.
 
-**Smart Breeding Management Platform**
+### Smart Breeding Management Platform
+
 Technical lead, National Innovation Training Program, 2023.10 - 2024.04
 
 * Built web, app, and mini-program interfaces using Uniapp and Spring Boot.
