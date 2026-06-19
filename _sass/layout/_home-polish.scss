@@ -141,6 +141,13 @@ body {
   margin: 1.7rem 0 2rem;
 }
 
+.home-hero__actions p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin: 0;
+}
+
 .home-hero__actions .btn {
   border-radius: 999px;
   transition: transform 0.22s ease, box-shadow 0.22s ease, background 0.22s ease;
@@ -156,6 +163,10 @@ body {
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 0.85rem;
   margin-top: 2.4rem;
+}
+
+.home-hero__metrics p {
+  display: contents;
 }
 
 .home-hero__metrics span {
